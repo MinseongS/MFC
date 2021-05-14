@@ -50,3 +50,13 @@
 #### - OnBinaryDilation
 #### - OnGrayErosion
 #### - OnGrayDilation
+#### - OnLowPassFilter
+#### - OnHighPassFilter
+#### - OnMeanFilter
+#### - OnMedianFilter
+#### - OnMaxFilter
+#### - OnMinFilter
+#### - OnFft2d
+#### - OnIfft2d
+#### - OnLpfFrequency
+#### - OnHpfFrequency

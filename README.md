@@ -8,7 +8,7 @@
 #### - OnSaveDocument : 변환한 파일을 RAW파일로 저장함.
 #### - OnDrawDocument : 변환한 이미지와 원본 이미지를 둘 다 출력.
 #### - OnDownSampling : Dialog 에서 Rate를 받아 DownSampling.
-##### ㄴ Dialog : 1~255 범위의 int 값을 받음.
+##### └ Dialog : 1~255 범위의 int 값을 받음.
 #### - OnUpSampling
 #### - OnQuantization
 #### - OnAndOperate

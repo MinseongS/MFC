@@ -2,7 +2,7 @@
 
 ## MFC 실습
 ### RAW 파일을 불러오고 다야안 방법으로 변환해 본다.
-
+***
 ### 기능
 #### - OnOpenDocument : RAW 파일을 열기 위해 파일을 불러옴
 #### - OnSaveDocument : 

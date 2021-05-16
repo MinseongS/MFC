@@ -39,10 +39,10 @@
 #### - OnHistogram : 이미지의 히스토그램을 보여줌
 #### - OnHistoEqual : 이미지 평활화(데이터가 밀집되어있는 곳을 집중적으로 스트레칭)
 #### - OnHistoSpec : 다른 이미지의 히스토그램과 비슷하게 만들어줌
-#### - OnEmbossing : 엠보싱 변환
-#### - OnBlurr
-#### - OnGaussianFilter
-#### - OnSharpening
+#### - OnEmbossing : 엠보싱 변환({{-1., 0., 0.}, {0., 0., 0.}, {0., 0., 1.}} 마스크 사용)
+#### - OnBlurr : 블러링 변환({{1./9., 1./9., 1./9.}, {1./9., 1./9., 1./9.}, {1./9., 1./9., 1./9.}} 마스크 사용)
+#### - OnGaussianFilter : 블러링 변환({{1./16., 1./8., 1./16.}, {1./8., 1./4., 1./8.}, {1./16., 1./8., 1./16.}} 마스크 사용)
+#### - OnSharpening : 
 #### - OnHpfSharp
 #### - OnLpfSharp
 #### - OnDiffOperatorHor

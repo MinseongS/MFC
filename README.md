@@ -43,8 +43,8 @@
 #### - OnBlurr : 블러링 변환({{1./9., 1./9., 1./9.}, {1./9., 1./9., 1./9.}, {1./9., 1./9., 1./9.}} 마스크 사용)
 #### - OnGaussianFilter : 블러링 변환({{1./16., 1./8., 1./16.}, {1./8., 1./4., 1./8.}, {1./16., 1./8., 1./16.}} 마스크 사용)
 #### - OnSharpening : 
-#### - OnHpfSharp
-#### - OnLpfSharp
+#### - OnHpfSharp : 
+#### - OnLpfSharp : 
 #### - OnDiffOperatorHor
 #### - OnHomogenOperator
 #### - OnLaplacian

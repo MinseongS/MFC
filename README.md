@@ -42,9 +42,9 @@
 #### - OnEmbossing : 엠보싱 변환({{-1., 0., 0.}, {0., 0., 0.}, {0., 0., 1.}} 마스크 사용)
 #### - OnBlurr : 블러링 변환({{1./9., 1./9., 1./9.}, {1./9., 1./9., 1./9.}, {1./9., 1./9., 1./9.}} 마스크 사용)
 #### - OnGaussianFilter : 블러링 변환({{1./16., 1./8., 1./16.}, {1./8., 1./4., 1./8.}, {1./16., 1./8., 1./16.}} 마스크 사용)
-#### - OnSharpening : 
-#### - OnHpfSharp : 
-#### - OnLpfSharp : 
+#### - OnSharpening
+#### - OnHpfSharp
+#### - OnLpfSharp
 #### - OnDiffOperatorHor
 #### - OnHomogenOperator
 #### - OnLaplacian

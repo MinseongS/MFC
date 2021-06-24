@@ -5,6 +5,7 @@
 ***
 
 <img src= "https://github.com/MinseongS/MFC_ImageProcessing/blob/main/ImageProcessingCapture.PNG">
+
 ### 기능
 #### - OnOpenDocument : RAW 파일을 열기 위해 파일을 불러옴
 #### - OnSaveDocument : 변환한 파일을 RAW파일로 저장함

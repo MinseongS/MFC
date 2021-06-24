@@ -5,6 +5,7 @@
 ***
 
 <img src= "https://github.com/MinseongS/MFC_ImageProcessing/blob/main/ImageProcessingCapture.PNG">
+고주파 필터 샤프닝 예시 이미지
 
 ### 기능
 #### - OnOpenDocument : RAW 파일을 열기 위해 파일을 불러옴
@@ -48,28 +49,28 @@
 #### - OnSharpening : 샤프닝 변환
 #### - OnHpfSharp : High Filter Pass 변환
 #### - OnLpfSharp : Low Filter Pass 변환
-#### - OnDiffOperatorHor : 수평 차이 변환
-#### - OnHomogenOperator : 
+#### - OnDiffOperatorHor : 수평 이동 변환
+#### - OnHomogenOperator : 유사 연산자 에지 처리
 #### - OnLaplacian : 라플라시안 변환
-#### - OnNearest : 
-#### - OnBilinear
-#### - OnMedianSub
-#### - OnMeanSub
-#### - OnTranslation
-#### - OnMirrorHor
-#### - OnMirrorVer
-#### - OnRotation
-#### - OnFrameSum
-#### - OnFrameSub
-#### - OnFrameMul
-#### - OnFrameDiv
-#### - OnFrameAnd
-#### - OnFrameOr
-#### - OnFrameComb
-#### - OnBinaryErosion
-#### - OnBinaryDilation
-#### - OnGrayErosion
-#### - OnGrayDilation
+#### - OnNearest : 이웃 화소 보간
+#### - OnBilinear : 선형 보간
+#### - OnMedianSub : 미디언 값으로 subsampling
+#### - OnMeanSub : 평균 값으로 subsampling
+#### - OnTranslation : 영상 평행 이동
+#### - OnMirrorHor : 영상 수평 반전
+#### - OnMirrorVer : 영상 수직 반전
+#### - OnRotation : 영상 회전
+#### - OnFrameSum : 영상간 픽셀값 (+) 연산
+#### - OnFrameSub : 영상간 픽셀값 (-) 연산
+#### - OnFrameMul : 영상간 픽셀값 (*) 연산
+#### - OnFrameDiv : 영상간 픽셀값 (/) 연산
+#### - OnFrameAnd : 영상간 픽셀값 AND 연산
+#### - OnFrameOr : 영상간 픽셀값 OR 연산
+#### - OnFrameComb : 영상 합성
+#### - OnBinaryErosion : 이진 영상 침식 처리
+#### - OnBinaryDilation : 이진 영상 팽창 처리
+#### - OnGrayErosion : 그레이 영상 침식 처리
+#### - OnGrayDilation : 그레이 영상 팽창 처리
 #### - OnLowPassFilter
 #### - OnHighPassFilter
 #### - OnMeanFilter

@@ -6,7 +6,7 @@
 
 <img src= "https://github.com/MinseongS/MFC_ImageProcessing/blob/main/ImageProcessingCapture.PNG">
 고주파 필터 샤프닝 예시 이미지
-<img src= "https://github.com/MinseongS/MFC_ImageProcessing/blob/main/smaple.PNG">
+<img src= "https://github.com/MinseongS/MFC_ImageProcessing/blob/main/sample.PNG">
 이미지 변환 예시
 
 ### 기능

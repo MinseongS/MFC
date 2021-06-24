@@ -6,6 +6,8 @@
 
 <img src= "https://github.com/MinseongS/MFC_ImageProcessing/blob/main/ImageProcessingCapture.PNG">
 고주파 필터 샤프닝 예시 이미지
+<img src= "https://github.com/MinseongS/MFC_ImageProcessing/blob/main/smaple.PNG">
+이미지 변환 예시
 
 ### 기능
 #### - OnOpenDocument : RAW 파일을 열기 위해 파일을 불러옴

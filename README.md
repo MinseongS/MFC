@@ -71,13 +71,13 @@
 #### - OnBinaryDilation : 이진 영상 팽창 처리
 #### - OnGrayErosion : 그레이 영상 침식 처리
 #### - OnGrayDilation : 그레이 영상 팽창 처리
-#### - OnLowPassFilter
-#### - OnHighPassFilter
-#### - OnMeanFilter
-#### - OnMedianFilter
-#### - OnMaxFilter
-#### - OnMinFilter
-#### - OnFft2d
-#### - OnIfft2d
-#### - OnLpfFrequency
-#### - OnHpfFrequency
+#### - OnLowPassFilter : 저주파 필터
+#### - OnHighPassFilter : 고주파 필터
+#### - OnMeanFilter : 평균값 필터
+#### - OnMedianFilter : 중간값 필터
+#### - OnMaxFilter : 최대값 필터
+#### - OnMinFilter : 최소값 필터
+#### - OnFft2d : 2d 고속 푸리에 변환
+#### - OnIfft2d : 2d 역 고속 푸리에 변환
+#### - OnLpfFrequency : 저주파 필터링
+#### - OnHpfFrequency : 고주파 필터링
